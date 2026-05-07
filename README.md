@@ -15,6 +15,10 @@
 
 ## 1. Video Presentation
 
+[https://youtu.be/CxcoiCnaHWc]()
+
+[https://youtu.be/yFwJjuu4n1c]()
+
 ## 2. Project Summary
 
 ### Device Description
@@ -386,8 +390,8 @@ Updated system-level block diagram showing the final design architecture and dat
 Do *not* commit any of your source code to this repository. Rather, provide links to the other GitHub repository you've already been using with your firmware.
 
 - A link to your final embedded C firmware codebases
-  https://github.com/ese5160/final-project-firmware-s26-t27-ggwp.git
+  [https://github.com/ese5160/final-project-firmware-s26-t27-ggwp.git]()
 - A link to your Node-RED dashboard code
-  https://github.com/ese5160/final-project-firmware-s26-t27-ggwp.git
+  [https://github.com/ese5160/final-project-firmware-s26-t27-ggwp.git]()
 - Links to any other software required for the functionality of your device
-  https://github.com/ese5160/final-project-firmware-s26-t27-ggwp.git
+  [https://github.com/ese5160/final-project-firmware-s26-t27-ggwp.git]()
